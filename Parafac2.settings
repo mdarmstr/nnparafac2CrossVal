@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings name="parallel" xmlns="urn:mathworks.matlab.settings" xsi:schemaLocation="urn:mathworks.matlab.settings settings.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <settings name="profiles">
+        <settings name="Parafac2" visible="true">
+            <key name="Alias" visible="true">
+                <string>
+                    <value><![CDATA[Parafac2]]></value>
+                </string>
+            </key>
+            <key name="Description" visible="true" anytype="true">
+            </key>
+            <key name="ProjectComponent" visible="true">
+                <string>
+                    <value><![CDATA[Parafac2ProjectComponent]]></value>
+                </string>
+            </key>
+            <key name="SchedulerComponent" visible="true">
+                <string>
+                    <value><![CDATA[Parafac2SchedulerComponent]]></value>
+                </string>
+            </key>
+        </settings>
+    </settings>
+    <settings name="projectcomponents">
+        <settings name="Parafac2ProjectComponent" visible="true">
+            <key name="AdditionalPaths" visible="true">
+                <string minArraySize="0" maxArraySize="0" undef="true">
+                </string>
+            </key>
+            <key name="Alias" visible="true">
+                <string>
+                    <value><![CDATA[Parafac2ProjectComponent]]></value>
+                </string>
+            </key>
+            <key name="AttachedFiles" visible="true">
+                <string minArraySize="0" maxArraySize="0" undef="true">
+                </string>
+            </key>
+            <key name="AutoAddClientPath" visible="true" anytype="true">
+            </key>
+            <key name="AutoAttachEnvironment" visible="true" anytype="true">
+            </key>
+            <key name="AutoAttachFiles" visible="true">
+                <bool undef="true">
+                </bool>
+            </key>
+            <key name="CaptureDiary" visible="true" anytype="true">
+            </key>
+            <key name="EnvironmentVariables" visible="true">
+                <string minArraySize="0" maxArraySize="0" undef="true">
+                </string>
+            </key>
+            <key name="JobFinishedFcn" visible="true" anytype="true">
+            </key>
+            <key name="JobQueuedFcn" visible="true" anytype="true">
+            </key>
+            <key name="JobRunningFcn" visible="true" anytype="true">
+            </key>
+            <key name="JobTimeout" visible="true" anytype="true">
+            </key>
+            <key name="NumWorkersRange" visible="true" anytype="true">
+            </key>
+            <key name="TaskFinishedFcn" visible="true" anytype="true">
+            </key>
+            <key name="TaskRunningFcn" visible="true" anytype="true">
+            </key>
+            <key name="TaskTimeout" visible="true" anytype="true">
+            </key>
+        </settings>
+    </settings>
+    <settings name="schedulercomponents">
+        <settings name="MJS" visible="true">
+            <settings name="Parafac2SchedulerComponent" visible="true">
+                <key name="Alias" visible="true">
+                    <string>
+                        <value><![CDATA[Parafac2SchedulerComponent]]></value>
+                    </string>
+                </key>
+                <key name="Certificate" visible="true" anytype="true">
+                    <string>
+                        <value><![CDATA[-----BEGIN CERTIFICATE-----
+MIIDTzCCAjegAwIBAgIEKTUcCDANBgkqhkiG9w0BAQsFADBYMQkwBwYDVQQGEwAx
+CTAHBgNVBAgTADEJMAcGA1UEBxMAMRUwEwYDVQQKEwxUaGVNYXRod29ya3MxDDAK
+BgNVBAsTA01KUzEQMA4GA1UEAxMHc2VydmljZTAeFw0yMjA4MDkxNzA4MjNaFw0y
+MjExMDcxNzA4MjNaMFgxCTAHBgNVBAYTADEJMAcGA1UECBMAMQkwBwYDVQQHEwAx
+FTATBgNVBAoTDFRoZU1hdGh3b3JrczEMMAoGA1UECxMDTUpTMRAwDgYDVQQDEwdz
+ZXJ2aWNlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtEe6794zgCdm
+e3ULlcQVWpX1hkRLXRO4rlFbUjiVKFl3MbUe/xeOGAcCI4p/+OUsTBML0HoIMkcd
+FmBb+iGSuY2zWIbYb/BzTHSs76qhHWgK1k8i8JqWawmitIe4uFt/5Ri1pGJpZVky
+AoB6H3q11wosVOKA9gEGXP2xMTWxtOT8QtT2jC3Qf5yDC+1OEeRLwTYoPPqPTODT
+n7NGtJcSsoV0ZIgcq8FRfQqcvd5ZchdXAvYwbIprljGRMDztyK7wvgnmXttNoIZz
+Xqp2yK7nuZd0ZNpMZ5KoFtr8vhdsjveE4GDr5fcixu9jw0UnMA4cDAqHRsDKBkIn
+fWShvkVK5wIDAQABoyEwHzAdBgNVHQ4EFgQU/UmrPNM67Ek7X35Qx8uJ80z9cqMw
+DQYJKoZIhvcNAQELBQADggEBAB1XAkGmVJXPPfnQJwQwCGi9vH6Ejacoxy3wD3zj
+W6nyFAYQAQhXHJtwMZXi5cXVbTrPOI/30sOhWqJShPt3NnN5pfKt4BawvRoKUo/1
+wwyO4Bd5Hz/68y2ysZkQnbWLF9Z1nwDymbRDjh6MYi9PN8u6T2Gt8b3pzmAyU0st
+LjeH9lz6L49WddozBnTRN9h+ryRHZ21kvZiBU5su0Gv/z5F0k88rVZq79QtbAvRM
+dVMtTmdUytuxW4755X727sC+NgVuPMqwt8/XYcNJ+mnJu7T7Gj7jKV2RQeEbVM+t
+EeDPu0RIBObLf0uNFQL7RIiIQZ7onemPTvdj0eqtwXmbRMU=
+-----END CERTIFICATE-----]]></value>
+                    </string>
+                </key>
+                <key name="DefaultTimeout" visible="true" anytype="true">
+                </key>
+                <key name="Host" visible="true">
+                    <string>
+                        <value><![CDATA[ec2-3-138-247-98.us-east-2.compute.amazonaws.com]]></value>
+                    </string>
+                </key>
+                <key name="LicenseNumber" visible="true" anytype="true">
+                </key>
+                <key name="MJSName" visible="true">
+                    <string>
+                        <value><![CDATA[Parafac2]]></value>
+                    </string>
+                </key>
+                <key name="MaximumRetries" visible="true" anytype="true">
+                </key>
+                <key name="NumThreads" visible="true" anytype="true">
+                </key>
+                <key name="RestartWorker" visible="true" anytype="true">
+                </key>
+                <key name="Username" visible="true" anytype="true">
+                </key>
+            </settings>
+        </settings>
+    </settings>
+</settings>
